@@ -1,7 +1,7 @@
-#include "stdio"
+#include <stdio.h>
 
 void main(void)
 {
-	printf("Hello git %d")
+	printf("Hello git %d");
 	return 0;
 } 
